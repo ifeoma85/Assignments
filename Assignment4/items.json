@@ -1,0 +1,5 @@
+[
+("name": "bread", "price": "N400", "size": "small", "id": 1);
+("name": "meat", "price": "N800", "size": "large", "id": 2);
+("name": "eggs", "price": "N600", "size": "small", "id": 3)
+]
